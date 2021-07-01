@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  nginx1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-01T10:03:54.884134956+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 2ea2812bde0ed7016fcef501d821e263107f0c202a3829a13476f72a5c4cde79
+    name: nginx1
+    type: application
+    urls:
+    - https://ooioo.github.io/ChartMarket/nginx1-0.1.0.tgz
+    version: 0.1.0
+  nginx2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-01T10:03:54.884508136+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 292919644440cf909ccd070181b5b922905bb1b393edb548ef38deb9280fceff
+    name: nginx2
+    type: application
+    urls:
+    - https://ooioo.github.io/ChartMarket/nginx2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-01T10:03:54.883565614+02:00"
